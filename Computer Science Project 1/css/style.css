@@ -1,0 +1,3 @@
+.guitar li::marker{
+    content: 'guitar'
+}
